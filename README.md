@@ -5,7 +5,7 @@
 - The is a direct corelation between the total number of hospital visits under the total pharmacy revenue. 
 - The drug that had the highest revenue was from Malaria diagnosis at 54,950. 
 - Malaria diagnosis had the lowest number of the average stay days at the hospital.  
-- Typhoid had the highest number of the average stay days at 88 closely followed by flu wish recorded an average stay days of 87. 
+- Typhoid had the highest number of the average hospital stay days at 88 closely followed by flu wish recorded an average stay days of 87. 
 - The is no corelation between the average number of hospital an the total pharmacy revenue. 
 - The highest drug consumption came from the age group between 61-79 years.
 - Inpatient services recorded the highest pharmacy revenue at 94,759. 
