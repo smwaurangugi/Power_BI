@@ -1,2 +1,11 @@
-# Power_BI
-Power BI
+# DISEASES DIAGNOSIS FOR KIAMBU, KISUMU, MOMBASA, NAIROBI, NAKURU AND UASIN GISHU.
+- The total number of visits, total number of revenue and the average number of stay days stood at 300, 275K and 1.41 days respectively. 
+- Kiambu led in terms of total visits with 59 and out of this most patients were diagonised with diabetes and typhoid which each had a total visit of 13 respectively.
+- The most common diagnosis was flu which had a total number 56 patients with 15 coming from uasin Gishu county. 
+- The is a direct corelation between the total number of hospital visits under the total pharmacy revenue. 
+- The drug that had the highest revenue was from Malaria diagnosis at 54,950. 
+- Malaria diagnosis had the lowest number of the average stay days at the hospital.  
+- Typhoid had the highest number of the average stay days at 88 closely followed by flu wish recorded an average stay days of 87. 
+- The is no corelation between the average number of hospital an the total pharmacy revenue. 
+- The highest drug consumption came from the age group between 61-79 years.
+- Inpatient services recorded the highest pharmacy revenue at 94,759. 
